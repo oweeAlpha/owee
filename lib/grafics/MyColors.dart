@@ -10,6 +10,7 @@ class MyColors extends ColorScheme {
   static const Color darkGreenButton = MyColors.greenDark;
   static const Color darkGreenButtonText = MyColors.lightTurquise;
   static const Color cardViewBackground = MyColors.lightTurquise;
+  static const Color giveBackButton = MyColors.greenDark;
 
   static const Color lightTurquise = Color(0xFFD4EDEF);
   static const Color greenDark = Color(0xFF25868E);

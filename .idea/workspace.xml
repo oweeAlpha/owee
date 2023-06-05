@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbd812a9-4620-4d84-8acc-8bcd09238b53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/families/Klee/KleeOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/families/Klee/KleeTwo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_give.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_give_confirm.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_request.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_request_confrim.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_start_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_start_new.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/CardArrayH.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/blurryBgTopBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/blurryBgTopBarStatusbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/graphTest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test/startingPoint.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grafics/MyColors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grafics/MyColors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/direct_lending/dl_start.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/direct_lending/dl_start.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/startSequence/onfido_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/startSequence/onfido_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P3eQ8WQhZSsOO9k59iLEZWfepU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Luna/Desktop/Lunator/owee/FLUTTER/projects/firebase3&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\owee\owee.alpha0_0_1\lib\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\owee\owee.alpha0_0_1\assets\fonts\families\Klee" />
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\owee\owee.alpha0_0_1\assets\fonts" />
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\owee\owee.alpha0_0_1\lib\grafics\fonts" />
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\firebase3\lib\pages\direct_lending" />
+      <recent name="C:\Users\Luna\Desktop\Lunator\owee\FLUTTER\projects\firebase3\lib\pages\startSequence" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbd812a9-4620-4d84-8acc-8bcd09238b53" name="Changes" comment="" />
+      <created>1682690181613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682690181613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

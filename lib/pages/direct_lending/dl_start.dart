@@ -3,6 +3,8 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:firebase3/grafics/MyStyles.dart';
+import 'package:firebase3/pages/direct_lending/dl_request.dart';
+import 'package:firebase3/pages/direct_lending/dl_give.dart';
 
 
 class dl_start extends StatefulWidget {
@@ -159,7 +161,6 @@ class _dl_startState extends State<dl_start> {
                               SizedBox(height: 20.0),
                               TextFormField(
                                 textAlign: TextAlign.center,
-
                                 decoration: InputDecoration(
                                   fillColor: Colors.white,
                                   filled: true,
@@ -181,15 +182,15 @@ class _dl_startState extends State<dl_start> {
                                   focusedBorder: OutlineInputBorder(
                                     borderRadius: BorderRadius.circular(30.0),
                                     borderSide: BorderSide(
-                                      color: Colors.green, // set the border color here
-                                      width: 2.0, // set the border width here
+                                      color: MyColors.textFieldOutline, // set the border color here
+                                      width: 1.0, // set the border width here
                                     ),
                                   ),
                                   border: OutlineInputBorder(
                                     borderRadius: BorderRadius.circular(30.0),
                                     borderSide: BorderSide(
-                                      color: Colors.green, // set the border color here
-                                      width: 2.0, // set the border width here
+                                      color: MyColors.textFieldOutline, // set the border color here
+                                      width: 1.0, // set the border width here
                                     ),
                                   ),
                                 ),
@@ -201,7 +202,9 @@ class _dl_startState extends State<dl_start> {
                                 children: [
                                   Expanded(
                                     child: TextButton(
-                                      onPressed: () {},
+                                      onPressed: () {
+                                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => dl_give()));
+                                      },
                                       child: Text(
                                         'give',
                                         style: MyStyles.darkGreenButtonText,
@@ -219,7 +222,9 @@ class _dl_startState extends State<dl_start> {
                                   SizedBox(width: 8), // Add space between the buttons
                                   Expanded(
                                     child: TextButton(
-                                      onPressed: () {},
+                                      onPressed: () {
+                                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => dl_request()));
+                                      },
                                       child: Text(
                                           'request',
                                         style: TextStyle(
